@@ -102,7 +102,7 @@ main {
 }
 
 .cards-container :nth-child(1) { border-top-color: var(--cyan); }
-.cards-container :nth-child(2) { border-top-color: var(--blue); }
+.cards-container :nth-child(3) { border-top-color: var(--blue); }
 .central-cards :nth-child(1) { border-top-color: var(--red); }
 .central-cards :nth-child(2) { border-top-color: var(--orange); }
 
